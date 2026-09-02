@@ -119,3 +119,7 @@ This slice gives the project a reliable foundation before any UI or AI work begi
 ## Exclusions
 
 `05_content/`, `05_previews/`, and local portfolio exports remain outside Git. They are inputs to local runs, not source code or public project assets.
+
+## Language Policy
+
+The Russian and English roadmap versions are maintained in sync. New architectural decisions, phase changes, and completion criteria must be updated in both `PROJECT_ROADMAP.md` and `PROJECT_ROADMAP_RU.md`.
