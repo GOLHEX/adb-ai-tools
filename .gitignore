@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# Local generated output
+05_content/**/generated/
+05_content/**/tmp/
+
+# Large content and preview collections
+/05_content/
+/05_previews/
+
+# Private portfolio export
+04_automation/portfolio_dump.csv
+04_automation/runs/
+
+# IDE
+.vscode/
